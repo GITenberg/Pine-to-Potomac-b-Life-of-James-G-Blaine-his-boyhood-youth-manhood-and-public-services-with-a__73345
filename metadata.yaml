@@ -1,0 +1,28 @@
+_repo: Pine-to-Potomac-b-Life-of-James-G-Blaine-his-boyhood-youth-manhood-and-public-services-with-a__73345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cressey, E. K.
+    gutenberg_agent_id: '57040'
+    url: http://www.gutenberg.org/2009/agents/57040
+description: ''
+gutenberg_issued: '2024-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73345'
+language: en
+pgterms:marc904: https://archive.org/details/pinetopotomac00cresiala
+pgterms:marc905: 20221016184709cressey
+pgterms:marc906: '1884'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bJames H. Earl, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pine to Potomac : $b Life of James G. Blaine: his boyhood, youth, manhood,
+  and public services; with a sketch of the life of Gen. John A. Logan'
+url: http://www.gutenberg.org/ebooks/73345
