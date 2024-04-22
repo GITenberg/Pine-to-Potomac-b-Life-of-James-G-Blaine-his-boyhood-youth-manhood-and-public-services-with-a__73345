@@ -1,11 +1,16 @@
 _repo: Pine-to-Potomac-b-Life-of-James-G-Blaine-his-boyhood-youth-manhood-and-public-services-with-a__73345
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73345-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Cressey, E. K.
     gutenberg_agent_id: '57040'
     url: http://www.gutenberg.org/2009/agents/57040
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73345#Pine-to-Potomac-b-Life-of-James-G-Blaine-his-boyhood-youth-manhood-and-public-services-with-a_
 gutenberg_issued: '2024-04-07'
 gutenberg_type: Text
 identifiers:
